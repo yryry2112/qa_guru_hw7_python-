@@ -1,0 +1,4 @@
+selene
+pytest
+pypdf
+openpyxl
